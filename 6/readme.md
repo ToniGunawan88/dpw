@@ -1,5 +1,6 @@
 
-NIM: 2022500068
+NIM: 2022500069
+
 Nama: Fadil Muhammad Baiduri
 KELOMPOK : SI2K
 
